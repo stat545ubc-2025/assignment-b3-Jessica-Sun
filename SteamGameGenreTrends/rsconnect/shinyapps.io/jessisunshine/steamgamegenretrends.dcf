@@ -1,0 +1,10 @@
+name: steamgamegenretrends
+title: Steam Game Genre Trends
+username: jessisunshine
+account: jessisunshine
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16143392
+bundleId: 11215811
+url: https://jessisunshine.shinyapps.io/steamgamegenretrends/
+version: 1
