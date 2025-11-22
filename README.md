@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h1fiJa_i)
+# Jessica Sun's Assignment B3
+
+This repository contains the Assignment B3 files for Jessica Sun (#69248748).
+
+## This repository contains the following files:
+
+1.  README.md: An introduction to the repository and list of files.
+
+2.  ChatGPT Prompts.docx: A Word doc of the record of prompts sent to ChatGPT to help write code for this project, as well as ChatGPT's replies.
+
+3.  SteamGameGenreTrends: A folder of the code and other documentation for the Shiny app. It contains the following files:
+
+    -   app.R: R code for the Shiny app.
