@@ -5,6 +5,6 @@ account: jessisunshine
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 16143392
-bundleId: 11215811
+bundleId: 11218750
 url: https://jessisunshine.shinyapps.io/steamgamegenretrends/
 version: 1
